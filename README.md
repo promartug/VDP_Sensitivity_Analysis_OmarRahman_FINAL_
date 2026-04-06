@@ -12,6 +12,6 @@ Code and data evaluating the sensitivity of Ventilation Defect Percent (VDP) com
 
 1. Extract the `.zip` archives into the root directory.
 2. Open the notebook and update directory paths to match the extracted folders.
-3. Run sequentially to reproduce all VDP calculations, spatial maps, and bootstrap distributions used in the final report.
+3. Run all to reproduce all VDP calculations, spatial maps, and bootstrap distributions used in the final report.
 
 **Author:** Omar Rahman
